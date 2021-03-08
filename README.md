@@ -1,6 +1,6 @@
-# flutter_hive_crud
+# Flutter Hive CRUD operation
 
-A new Flutter project.
+<p> This is a simple implementation of Hive database in dart/flutter </p>
 
 ## Getting Started
 
